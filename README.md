@@ -1,4 +1,4 @@
-## Quinto_experimento_estados_aleatorios
+## Quinto experimento estados aleatorios con Transitorios
 
 Se analizan las medidas de  10 dispositivos conectados a tres ozm's 
 
